@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyekAkhir3</string>
+    <string name="shared_key">SaveNotesKey</string>
+    <string name="nama_key">NotesNama</string>
+    <string name="wa_key">NotesWA</string>
+    <string name="catatan_key">NotesCatatan</string>
+</resources>
